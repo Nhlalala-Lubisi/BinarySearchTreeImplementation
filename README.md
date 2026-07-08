@@ -6,7 +6,7 @@ using **Java 21**, **Maven**, **VS Code**, and **JUnit 5** for testing.
 
 ------------------------------------------------------------------------
 
-## 📖 Description
+## Description
 
 This application implements a Binary Search Tree that allows users to:
 
@@ -23,7 +23,7 @@ fundamental data structure concepts.
 
 ------------------------------------------------------------------------
 
-## 🚀 Features
+## Features
 
 -   Binary Search Tree implementation
 -   Insert nodes
@@ -37,7 +37,7 @@ fundamental data structure concepts.
 
 ------------------------------------------------------------------------
 
-## 🛠 Technologies Used
+## Technologies Used
 
 -   Java 21
 -   Maven
@@ -46,7 +46,7 @@ fundamental data structure concepts.
 
 ------------------------------------------------------------------------
 
-## 📂 Project Structure
+## Project Structure
 
 ``` text
 BinarySearchTreeImplementation
@@ -65,7 +65,7 @@ BinarySearchTreeImplementation
             └── BinarySearchTreeTest.java
 ```
 
-## ▶️ Running
+## Running
 
 Compile:
 
@@ -81,13 +81,13 @@ mvn exec:java -Dexec.mainClass="com.nhlaks.Main"
 
 Or run `Main.java` directly from VS Code.
 
-## 🧪 Testing
+## Testing
 
 ``` bash
 mvn test
 ```
 
-## 📋 Example Output
+## Example Output
 
 ``` text
 In-order Traversal:
@@ -108,7 +108,7 @@ In-order after deletion:
 20 40 50 60 70 80
 ```
 
-## 📚 Learning Outcomes
+## Learning Outcomes
 
 -   Binary Search Trees
 -   Recursive algorithms
@@ -118,9 +118,9 @@ In-order after deletion:
 -   Unit testing with JUnit 5
 -   Maven project structure
 
-## 👨‍💻 Author
+## Author
 
-**Lubisi Nhlaks**
+**Nhlalala Lubisi**
 
-Advanced Diploma in Information Technology\
+Vaal University of Technology - Advanced Diploma in Information Technology (NQF 7)\
 Software Developer \| Full-Stack Developer \| AI & ML
