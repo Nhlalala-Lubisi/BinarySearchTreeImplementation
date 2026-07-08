@@ -123,9 +123,4 @@ In-order after deletion:
 **Lubisi Nhlaks**
 
 Advanced Diploma in Information Technology\
-Software Developer \| Full-Stack Developer \| AI & Machine Learning
-Enthusiast
-
-## 📄 License
-
-This project is intended for educational and learning purposes.
+Software Developer \| Full-Stack Developer \| AI & ML
