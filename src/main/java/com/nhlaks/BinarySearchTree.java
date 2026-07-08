@@ -96,9 +96,7 @@ public class BinarySearchTree {
                 : findSmallest(node.left);
     }
 
-    /**
-     * Displays In-order traversal.
-     */
+    //Displays In-order traversal.
     public void inorder() {
         inorderRecursive(root);
         System.out.println();
@@ -113,9 +111,7 @@ public class BinarySearchTree {
         }
     }
 
-    /**
-     * Displays Pre-order traversal.
-     */
+    //Displays Pre-order traversal.
     public void preorder() {
         preorderRecursive(root);
         System.out.println();
@@ -130,9 +126,7 @@ public class BinarySearchTree {
         }
     }
 
-    /**
-     * Displays Post-order traversal.
-     */
+    //Displays Post-order traversal.
     public void postorder() {
         postorderRecursive(root);
         System.out.println();
