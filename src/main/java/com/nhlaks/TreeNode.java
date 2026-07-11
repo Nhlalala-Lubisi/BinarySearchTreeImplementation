@@ -11,7 +11,6 @@ public class TreeNode {
 
     /**
      * Creates a node with the given value.
-     *
      * @param value value stored in the node
      */
     public TreeNode(int value) {
