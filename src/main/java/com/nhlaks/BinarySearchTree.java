@@ -1,6 +1,7 @@
 package com.nhlaks;
 
 /**
+ * Author: Nhlalala Lubisi 
  * Binary Search Tree implementation.
  */
 public class BinarySearchTree {
