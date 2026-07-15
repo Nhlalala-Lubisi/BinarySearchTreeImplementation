@@ -123,4 +123,4 @@ In-order after deletion:
 **Nhlalala Lubisi**
 
 Vaal University of Technology - Advanced Diploma in Information Technology (NQF 7)\
-Software Developer \| Full-Stack Developer \| AI & ML
+Software Developer \| AI & ML
